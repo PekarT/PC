@@ -5,12 +5,15 @@ Vybral jsem si malou maketu výtahu, který funguje na jednoduchý princip (jedn
 
 # Stav Projektu
 V tutu chvíli mám hotovou základní věc výtahu. Kabina dokáže jezdit nahoru a dolů + jsou tam zapojeny snímače, pomocí kterých systém zapojení pozná, zda je kabina nahoře, nebo je dole. 
-Do budoucna se chystám opláštit momentálně konstrukci, takzvaně udělal šachtu výtahu, přidělat tam otevírací dvěře, které se otevřou jakmile by kabina přijela do stanice.
+Do budoucna se chystám opláštit konstrukci, takzvaně udělat šachtu výtahu a pokusím se přidělat otevírací dvěře.
 
 # Schéma zapojení
-![Práce první pololetí - schéma](https://github.com/PekarT/PC/assets/154253404/a9489fb3-156e-4033-aedd-c8210a218057)
+
 
 # Průběh výroby + finální projekt
+![Práce první pololetí - schéma](https://github.com/PekarT/PC/assets/154253404/2d1f996e-eeea-4488-b731-e333fd9f71d9)
+
+
 # Materiál
 ![IMG_0998](https://github.com/PekarT/PC/assets/154253404/ef75edca-be4b-4517-aeba-f7ce1ed1e44b)
 
@@ -34,4 +37,4 @@ Jelikož je video moc velké, odkaz na video zde: https://youtube.com/shorts/f77
 Můj taťka
 
 # Literatura
-Žádnou jsem nepoužil, vše bylo vymyšleno z hlavy. Jediné jsem si pomohl se schématem od originálního schématu pro rozvaděč od firmy ROZVADĚČE VSETÍN
+Žádnou jsem nepoužil, vše bylo vymyšleno z hlavy. Jediné jsem si pomohl se schématem od originálního schématu pro rozvaděč od firmy ROZVÁDĚČE VSETÍN
