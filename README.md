@@ -32,3 +32,6 @@ Jelikož je video moc velké, odkaz na video zde: https://youtube.com/shorts/f77
 
 # Spolupracovník
 Můj taťka
+
+# Literatura
+Žádnou jsem nepoužil, vše bylo vymyšleno z hlavy. Jediné jsem si pomohl se schématem od originálního schématu pro rozvaděč ROZVADĚČE VSETÍN
