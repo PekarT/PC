@@ -28,3 +28,7 @@ Do budoucna se chystám opláštit momentálně konstrukci, takzvaně udělal š
 
 # Výrobek
 ![IMG_1026](https://github.com/PekarT/PC/assets/154253404/be992bd7-3824-453a-9fbc-b8df25adcfac)
+Jelikož je video moc velké, odkaz na video zde: https://youtube.com/shorts/f77rfWXCXYg?feature=share
+
+# Spolupracovník
+Můj taťka
