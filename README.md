@@ -6,3 +6,4 @@ Vybral jsem si malou maketu výtahu, který funguje na jednoduchý princip (jedn
 # Stav Projektu
 V tutu chvíli mám hotovou základní věc výtahu. Kabina dokáže jezdit nahoru a dolů + jsou tam zapojeny snímače, pomocí kterých systém zapojení pozná, zda je kabina nahoře, nebo je dole. 
 Do budoucna se chystám opláštit momentálně konstrukci, takzvaně udělal šachtu výtahu, přidělat tam otevírací dvěře, které se otevřou jakmile by kabina přijela do stanice.
+![Práce první pololetí - schéma](https://github.com/PekarT/PC/assets/154253404/4bc2139e-4d05-4105-af6a-0592b0621b68)
