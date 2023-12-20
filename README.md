@@ -8,11 +8,9 @@ V tutu chvíli mám hotovou základní věc výtahu. Kabina dokáže jezdit naho
 Do budoucna se chystám opláštit konstrukci, takzvaně udělat šachtu výtahu a pokusím se přidělat otevírací dvěře.
 
 # Schéma zapojení
-
-
-# Průběh výroby + finální projekt
 ![Práce první pololetí - schéma](https://github.com/PekarT/PC/assets/154253404/2d1f996e-eeea-4488-b731-e333fd9f71d9)
 
+# Průběh výroby + finální projekt
 
 # Materiál
 ![IMG_0998](https://github.com/PekarT/PC/assets/154253404/ef75edca-be4b-4517-aeba-f7ce1ed1e44b)
