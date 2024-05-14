@@ -1,6 +1,8 @@
 # Ročníkový projekt
 
-PRVNÍ POLOLETÍ
+
+#PRVNÍ POLOLETÍ
+
 
 # Zadání
 Vybral jsem si malou maketu výtahu, který funguje na jednoduchý princip (jedná se pouze o napodobeninu výtahu, kterou jsem já schopen zapojit).
