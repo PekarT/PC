@@ -1,8 +1,4 @@
-# Ročníkový projekt
-
-
-#PRVNÍ POLOLETÍ
-
+# Ročníkový projekt (PRVNÍ POLOLETÍ)
 
 # Zadání
 Vybral jsem si malou maketu výtahu, který funguje na jednoduchý princip (jedná se pouze o napodobeninu výtahu, kterou jsem já schopen zapojit).
@@ -40,3 +36,12 @@ Můj taťka
 
 # Literatura
 Žádnou jsem nepoužil, vše bylo vymyšleno z hlavy. Jediné jsem si pomohl se schématem od originálního schématu pro rozvaděč od firmy ROZVÁDĚČE VSETÍN
+
+# DRUHÉ POLOLETÍ
+
+# Na jakém principu projekt funguje
+
+# Schéma zapojení
+![Práce druhé pololetí - schéma](https://github.com/PekarT/PC/assets/154253404/39c58ee5-a57a-4b6b-8ba8-ada35525bbab)
+
+
