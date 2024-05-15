@@ -44,4 +44,12 @@ Můj taťka
 # Schéma zapojení
 ![Práce druhé pololetí - schéma](https://github.com/PekarT/PC/assets/154253404/39c58ee5-a57a-4b6b-8ba8-ada35525bbab)
 
+# Fotografie
+![IMG_1470](https://github.com/PekarT/PC/assets/154253404/6dc973f9-ef3f-4802-9bda-c37ea4e33757)
 
+# Předvedení funkčního řešení + slovní zjednodušené vysvětletí projektu
+https://youtu.be/WmpP3LC4Kmw
+https://youtu.be/8fUmckiE_Vs
+
+# Žádost o speciální bonus
+Myslím si, že bych mohl dostat nějaký bonus za projekt, který jsem vypracoval, jelikož většina spolužáků pouze kopírují/vytvářejí hry podle tutorialů na youtube a nevymyslí si nic z hlavy
