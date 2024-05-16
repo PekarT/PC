@@ -40,12 +40,14 @@ Můj taťka
 # DRUHÉ POLOLETÍ
 
 # Na jakém principu projekt funguje
+V porvním poletí mi šlo hlavně o to, aby jsem dokázal s kabinou výtahu jezdit. Projekt byl sestrojen pomocí hlavního vypínače celého rozvaděče, dále tam byl jeden otočný třípozicový vypínač, kterým se určoval směr jízdy nahoru nebo dolů, popřípadě klidová pozice ve stanici a dvě led svítidla, která určují pozici výtahu, zda je výtah v horním, nebo spodním patře. Na stropu kabiny jsou dva snímače, které když projedou okolo koncového magnetu upevněného na vodítku (konstrukce, po čem se pohybuje kabina) snímač rozepne elektrický obvod a výtah se zastaví. Ve druhém pololetí jsem přidal realnější ovládání kabiny pomocí dvou stlačitelných tlačítek. Pokud tlačítko zmáčknu, výtah jede nahoru, nebo dolu (podle toho jaké tlačítko zmáčknu) a nemusím jej nadále držet, jak to bylo doposud. Jakmile výtah dojede do cílové pozice, snímač rozepne elektrický obvod a výtah se zastaví. Do kabiny jsem také přidal malou žárovku, která počas jízdy kabiny svítí, jakmile se kabina zastaví ve stanici žárovka se vypne. Celý projekt byl inspirován originálním výtahem, byly použity součástky, které se používají v originálním provedení výtahu, jako jsou například: vodítka, tlačítka na přivolání výtahu, relátka, snímače, atd.. 
 
 # Schéma zapojení
-![Práce druhé pololetí - schéma](https://github.com/PekarT/PC/assets/154253404/39c58ee5-a57a-4b6b-8ba8-ada35525bbab)
+![Druhá pololetní práce - schéma](https://github.com/PekarT/PC/assets/154253404/61160870-1418-42ce-9bc5-ea2b52dc9f63)
 
 # Fotografie
 ![IMG_1470](https://github.com/PekarT/PC/assets/154253404/6dc973f9-ef3f-4802-9bda-c37ea4e33757)
+Zbylé fotografie z realizace projektu jsou ukázané v prvním pololetí (v horní části textu)
 
 # Předvedení funkčního řešení + slovní zjednodušené vysvětletí projektu
 https://youtu.be/WmpP3LC4Kmw
