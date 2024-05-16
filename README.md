@@ -45,7 +45,7 @@ Ve druhém pololetí jsem přidal reálnější ovládání kabiny pomocí dvou 
 Nakonec jsem konstrukci neoplášťoval, aby byly vidět všechny potřebné komponenty, tudíž jsem ani nikam nemohl přidělat otevírací dveře.
 
 # Schéma zapojení
-![Druhá pololetní práce - schéma](https://github.com/PekarT/PC/assets/154253404/61160870-1418-42ce-9bc5-ea2b52dc9f63)
+![Druhá pololetní práce - schéma](https://github.com/PekarT/PC/assets/154253404/2f224a30-76b7-429e-bd80-df4b333c4a38)
 
 # Fotografie
 ![IMG_1470](https://github.com/PekarT/PC/assets/154253404/6dc973f9-ef3f-4802-9bda-c37ea4e33757)
