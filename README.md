@@ -1,4 +1,4 @@
--# Ročníkový projekt
+# Ročníkový projekt
 
 # Zadání
 Vybral jsem si, že vyrobím malou maketu výtahu, která funguje na jednoduchém principu. Jedná se pouze o napodobeninu výtahu.
