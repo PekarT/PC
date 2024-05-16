@@ -1,4 +1,4 @@
-# Ročníkový projekt
+-# Ročníkový projekt
 
 # Zadání
 Vybral jsem si, že vyrobím malou maketu výtahu, která funguje na jednoduchém principu. Jedná se pouze o napodobeninu výtahu.
@@ -45,9 +45,10 @@ Ve druhém pololetí jsem přidal reálnější ovládání kabiny pomocí dvou 
 Nakonec jsem konstrukci neoplášťoval, aby byly vidět všechny potřebné komponenty, tudíž jsem ani nikam nemohl přidělat otevírací dveře.
 
 # Schéma zapojení
-![Druhá pololetní práce - schéma](https://github.com/PekarT/PC/assets/154253404/2f224a30-76b7-429e-bd80-df4b333c4a38)
 
 # Fotografie
+![Druhá pololetní práce - schéma](https://github.com/PekarT/PC/assets/154253404/985aa13d-436a-4bfb-8875-bcdcc13ce93e)
+
 ![IMG_1470](https://github.com/PekarT/PC/assets/154253404/6dc973f9-ef3f-4802-9bda-c37ea4e33757)
 Zbylé fotografie z realizace projektu jsou ukázané v prvním pololetí (v horní části textu).
 
