@@ -1,11 +1,11 @@
 # Ročníkový projekt (PRVNÍ POLOLETÍ)
 
 # Zadání
-Vybral jsem si malou maketu výtahu, který funguje na jednoduchý princip (jedná se pouze o napodobeninu výtahu, kterou jsem já schopen zapojit).
+Vybral jsem si malou maketu výtahu, která funguje na jednoduchém principu. Jedná se pouze o napodobeninu výtahu.
 
 # Stav Projektu
-V tuto chvíli mám hotovou základní věc výtahu. Kabina dokáže jezdit nahoru a dolů + jsou tam zapojeny snímače, pomocí kterých systém zapojení pozná, zda je kabina nahoře, nebo je dole. 
-Do budoucna se chystám opláštit konstrukci, takzvaně udělat šachtu výtahu a pokusím se přidělat otevírací dvěře.
+V tuto chvíli mám hotovou základní část výtahu. Kabina dokáže jezdit nahoru a dolů, včetně zapojených zastavovacích snímačů, pomocí kterých systém zapojení pozná, zda je kabina nahoře, nebo je dole. 
+Do budoucna se chystám opláštit konstrukci, takzvaně udělat šachtu výtahu a pokusím se přidat otevírací dvěře.
 
 # Schéma zapojení
 ![Práce první pololetí - schéma](https://github.com/PekarT/PC/assets/154253404/b93b0a5e-d3d5-4608-94a2-6f0dd534d9fe)
@@ -35,7 +35,7 @@ Jelikož je video moc velké, odkaz na video zde: https://www.youtube.com/shorts
 Můj taťka
 
 # Literatura
-Žádnou jsem nepoužil, vše bylo vymyšleno z hlavy. Jediné jsem si pomohl se schématem od originálního schématu pro rozvaděč od firmy ROZVÁDĚČE VSETÍN
+Žádnou jsem nepoužil, vše bylo vymyšleno z hlavy. Jediné, čím jsem si pomohl, bylo schéma od výrobce výtahových rozvaděčů firmy ROZVÁDĚČE VSETÍN.
 
 # DRUHÉ POLOLETÍ
 # Na jakém principu projekt funguje
@@ -48,11 +48,14 @@ Nakonec jsem konstrukci neoplášťoval, aby byly vidět všechny potřebné kom
 
 # Fotografie
 ![IMG_1470](https://github.com/PekarT/PC/assets/154253404/6dc973f9-ef3f-4802-9bda-c37ea4e33757)
-Zbylé fotografie z realizace projektu jsou ukázané v prvním pololetí (v horní části textu)
+Zbylé fotografie z realizace projektu jsou ukázané v prvním pololetí (v horní části textu).
 
 # Předvedení funkčního řešení + slovní zjednodušené vysvětlení projektu
 https://youtu.be/WmpP3LC4Kmw
 https://youtu.be/8fUmckiE_Vs
+
+# Použitelnost v praxi
+Princip tohoto projektu lze v praxi použít ke kontrukci automatických dvířek ke kurníku. Při použítí vyššího napětí lze princip využít ke stavbě pivního zvedáku.
 
 # Žádost o speciální bonus
 Myslím si, že bych mohl dostat nějaký bonus za projekt, který jsem vypracoval, jelikož většina spolužáků pouze kopírují/vytvářejí hry podle tutorialu na youtube a nevymyslí si nic z hlavy.
